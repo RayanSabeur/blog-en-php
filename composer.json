@@ -1,0 +1,15 @@
+{
+    "name": "johns/entrainementgit",
+    "autoload": {
+        "psr-4": {
+            "Johns\\Entrainementgit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RayanSabeur",
+            "email": "85495356+RayanSabeur@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
