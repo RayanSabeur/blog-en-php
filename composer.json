@@ -2,7 +2,7 @@
     "name": "johns/entrainementgit",
     "autoload": {
         "psr-4": {
-            "Johns\\Entrainementgit\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
